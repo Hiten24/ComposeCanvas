@@ -1,4 +1,4 @@
-package com.hcapps.composecanvas
+package com.hcapps.composecanvas.gender_picker
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
@@ -23,6 +23,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.hcapps.Gender
+import com.hcapps.composecanvas.R
 
 @Composable
 fun GenderPicker(
